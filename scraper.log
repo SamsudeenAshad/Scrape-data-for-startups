@@ -1,0 +1,19 @@
+2026-01-19 10:39:10,443 - INFO - Starting to fetch 500 companies from YC directory...
+2026-01-19 10:39:11,852 - INFO - Fetched page 1, total companies: 100
+2026-01-19 10:39:12,635 - INFO - Fetched page 2, total companies: 200
+2026-01-19 10:39:13,392 - INFO - Fetched page 3, total companies: 300
+2026-01-19 10:39:14,142 - INFO - Fetched page 4, total companies: 400
+2026-01-19 10:39:14,941 - INFO - Fetched page 5, total companies: 500
+2026-01-19 10:39:15,444 - INFO - Starting parallel scraping of 500 companies with 5 workers...
+2026-01-19 10:39:33,994 - INFO - Progress: 50/500 companies scraped
+2026-01-19 10:39:50,110 - INFO - Progress: 100/500 companies scraped
+2026-01-19 10:40:05,784 - INFO - Progress: 150/500 companies scraped
+2026-01-19 10:40:20,795 - INFO - Progress: 200/500 companies scraped
+2026-01-19 10:40:36,712 - INFO - Progress: 250/500 companies scraped
+2026-01-19 10:40:51,852 - INFO - Progress: 300/500 companies scraped
+2026-01-19 10:41:06,561 - INFO - Progress: 350/500 companies scraped
+2026-01-19 10:41:21,601 - INFO - Progress: 400/500 companies scraped
+2026-01-19 10:41:37,488 - INFO - Progress: 450/500 companies scraped
+2026-01-19 10:41:52,959 - INFO - Progress: 500/500 companies scraped
+2026-01-19 10:41:52,966 - INFO - Exported 500 startups to yc_startups_500.csv
+2026-01-19 10:41:52,987 - INFO - Exported 500 startups to yc_startups_500.json
